@@ -8,6 +8,8 @@ My name is Pronoy Mukherjee and I am a student who likes computer science.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&layout=compact&theme=tokyonight"/>
 
+[![hello-github](https://github-readme-stats.vercel.app/api/pin/?username=pronoymukherjeewritescode&repo=hello-github)](https://github.com/pronoymukherjeewritescode/hello-github&theme=tokyonight)
+
 <!--
 **pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
