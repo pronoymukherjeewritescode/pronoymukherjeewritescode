@@ -1,5 +1,13 @@
 [![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-### Hi there 👋
+
+# Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Pronoy Mukherjee and I am a student who likes computer science.
+
+[![Pronoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoymukherjeewritescode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
