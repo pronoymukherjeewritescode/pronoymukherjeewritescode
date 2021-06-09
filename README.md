@@ -4,9 +4,9 @@
 
 My name is Pronoy Mukherjee and I am a student who likes computer science.
 
-[![Pronoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoymukherjeewritescode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoymukherjeewritescode&show_icons=true&theme=tokyonight"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&theme=tokyonight"/>
 
 <!--
 **pronoymukherjeewritescode/pronoymukherjeewritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
