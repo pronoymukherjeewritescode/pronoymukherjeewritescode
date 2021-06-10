@@ -4,14 +4,8 @@
 My name is Pronoy Mukherjee and I am a student who likes computer science.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoymukherjeewritescode&langs_count=&layout=compact&theme=tokyonight"/>
 
-<a href="https://github.com/pronoymukherjeewritescode/pronoymukherjeewritescode">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pronoymukherjeewritescode&show_icons=true&theme=tokyonight"/>
-</a>
+[![](https://github-readme-stats.vercel.app/api?username=pronoymukherjeewritescode&show_icons=true&theme=tokyonight)](https://github.com/pronoymukherjeewritescode/pronoymukherjeewritescode)
 
-<a href=https://github.com/pronoymukherjeewritescode/hello-github>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoymukherjeewritescode&repo=hello-github&theme=tokyonight"/>
-</a>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pronoymukherjeewritescode&repo=hello-github&theme=tokyonight) ](https://github.com/pronoymukherjeewritescode/hello-github) 
 
-<a href=https://github.com/pronoymukherjeewritescode/scrumptious-webpage>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pronoymukherjeewritescode&repo=scrumptious-webpage&theme=tokyonight"/>
-</a>
+[ ![](https://github-readme-stats.vercel.app/api/pin/?username=pronoymukherjeewritescode&repo=scrumptious-webpage&theme=tokyonight)](https://github.com/pronoymukherjeewritescode/scrumptious-webpage)
