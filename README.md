@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
+[![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
 
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
