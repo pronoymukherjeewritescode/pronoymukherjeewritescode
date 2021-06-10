@@ -1,5 +1,9 @@
 [![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
 
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
