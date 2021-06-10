@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode//readme_header.png "Header")](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
 
-# Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Pronoy Mukherjee and I am a student who likes computer science.
 
