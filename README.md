@@ -1,10 +1,12 @@
 [![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
 
 <a href="https://discord.gg/yrj2kpnsU2">
-<img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
 </a>
 
-
+<a href="https://gitlab.com/pronoymukherjeewritescode">
+<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>
+</a>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
