@@ -24,10 +24,12 @@ My name is Pronoy Mukherjee and I am self-taught student developer who is passio
 
 ---
 ## Find me here: 
-<a href="https://discord.gg/yrj2kpnsU2">
+<p><a href="https://discord.gg/yrj2kpnsU2">
 <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>Discord
 </a>
+  </p>
 
-<a href="https://gitlab.com/pronoymukherjeewritescode">
+<p><a href="https://gitlab.com/pronoymukherjeewritescode">
 <img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>GitLab
 </a>
+</p>
