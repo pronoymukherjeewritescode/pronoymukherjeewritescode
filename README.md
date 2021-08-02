@@ -1,18 +1,22 @@
 [![Header](https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/gh-pages/readme_header.png)](https://pronoymukherjeewritescode.github.io/pronoymukherjeewritescode)
 
-<a href="https://discord.gg/yrj2kpnsU2">
-<img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-</a>
+<p>Find me here:</p>
+<p><a href="https://discord.gg/yrj2kpnsU2">
+<img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>Discord
+</a></p>
 
-<a href="https://gitlab.com/pronoymukherjeewritescode">
-<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>
-</a>
+<p><a href="https://gitlab.com/pronoymukherjeewritescode">
+<img align="left" alt="GitLab" width="21px" src="https://raw.githubusercontent.com/pronoymukherjeewritescode/pronoymukherjeewritescode/2d284067205180139e7174dbf803d0f3418bc1c1/gitlab.svg"/>GitLab
+</a></p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-
+<p>Programming languages that I know:</p>
+<ul>
+  <li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">Markdown</code></li>
+<li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code></li>
+<li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Python</code></li>
+<li><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">Bash</code></li>
+</ul>
+  
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Pronoy Mukherjee and I am self-taught student developer who is passionate about computer science.
