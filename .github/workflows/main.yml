@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: pronoymukherjeewritescode/metrics@latest
         with:
           # Your GitHub token
-          token: ${{}}
+          token: ${{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}}
